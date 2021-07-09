@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "title": "Justin called Jared after honeymoon",
+            "date": "July 2, 2021",
+            "subtext": "Jared mentioned that there is no rush, but we will begin the process this summer",
+            "icon":"phone"
+
+        },
+        {
+            "title": "Justin and Kent chatted about getting some sweeeeeeet discounts on legal fees",
+            "date":"July 1, 2021",
+            "subtext":"Kent is a lawyer now!",
+            "icon":"gavel"
+        },
+        {
+            "title":"Jared and Kathryn went on their HONEY moon",
+            "date":"June 20th, 2021",
+            "subtext":"Came back alive! From Mexico!",
+            "icon":"airplane"
+        },
+        {
+        "title":"Jareds Wedding",
+        "date":"June 18th, 2021",
+        "subtext": "Had a grand ol' time at the wedding!",
+        "icon":"favorite"
+    }]
+}
