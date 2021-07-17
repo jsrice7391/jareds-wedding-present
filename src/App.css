@@ -7,17 +7,16 @@
   pointer-events: none;
 }
 
-
 body {
-  background-color: whitesmoke
+  background-color: whitesmoke;
 }
 
 h1,
-h3{
-  color: darkblue;
-  text-align: center;
-
+h3 {
+  color: black;
+  font-weight: 400;
 }
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
